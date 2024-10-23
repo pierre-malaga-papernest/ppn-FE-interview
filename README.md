@@ -1,9 +1,9 @@
 
-**Job Title:** Senior Front-End Developer Technical Interview Task
+**Job Title:** Front-End Developer Technical Interview Task
 
 **Task Description:**
 
-We are seeking a Senior Front-End Developer to join our team. As part of the interview process, we have prepared a technical task to assess your skills and expertise. The task involves reviewing and fixing errors in a sample Angular application. The application is designed to evaluate your knowledge in Angular, Redux state management, unit testing, and adherence to SOLID principles.
+We are seeking a Front-End Developer to join our team. As part of the interview process, we have prepared a technical task to assess your skills and expertise. The task involves reviewing and fixing errors in a sample Angular application. The application is designed to evaluate your knowledge in Angular, Redux state management, unit testing, and adherence to SOLID principles.
 
 **Task Details:**
 
